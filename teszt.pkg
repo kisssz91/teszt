@@ -1,5 +1,5 @@
 create or replace package em_prod.PKG_EM_TR_FEES is
---- beleírtam ksz
+--- beleírtam valamit ksz
   -- Author  : BCG01
   -- Created : 2023.02.14 11:05:52
   -- Purpose : EM tranzakciós dij számitás
